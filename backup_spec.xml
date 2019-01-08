@@ -1,0 +1,22 @@
+<directories>
+	<directory>
+		<source>C:\Users\tkuzo\Pictures</source>
+		<target>F:\DellBackupSS\Pictures</target>
+	</directory>
+	<directory>
+		<source>C:\Users\tkuzo\Music\iTunes</source>
+		<target>F:\DellBackupSS\Music\iTunes</target>
+	</directory>
+	<directory>
+		<source>C:\Users\tkuzo\Documents</source>
+		<target>F:\DellBackupSS\Documents</target>
+	</directory>
+	<directory>
+		<source>C:\Users\tkuzo\Videos</source>
+		<target>F:\DellBackupSS\Videos</target>
+	</directory>
+	<directory>
+		<source>C:\Users\tkuzo\AppData\Local\Microsoft\OneNote\16.0\Backup</source>
+		<target>F:\DellBackupSS\OneNote</target>
+	</directory>
+</directories>

@@ -1,0 +1,22 @@
+<directories>
+	<directory>
+		<source>C:\Users\Anthony\Pictures</source>
+		<target>F:\DellBackupA\Pictures</target>
+	</directory>
+	<directory>
+		<source>C:\Users\Anthony\Music\iTunes</source>
+		<target>F:\DellBackupA\Music\iTunes</target>
+	</directory>
+	<directory>
+		<source>C:\Users\Anthony\workspace</source>
+		<target>F:\DellBackupA\workspace</target>
+	</directory>
+	<directory>
+		<source>C:\Users\Anthony\Documents</source>
+		<target>F:\DellBackupA\Documents</target>
+	</directory>
+	<directory>
+		<source>C:\Users\Anthony\GitPythonProjects</source>
+		<target>F:\DellBackupA\GitPythonProjects</target>
+	</directory>
+</directories>
