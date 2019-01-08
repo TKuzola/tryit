@@ -5,6 +5,8 @@ Created on Mar 23, 2018
 exercises for edX that is PyLint clean
 '''
 
+# test git
+
 
 def remaining_balance(periodic_rate, amount, payment, months):
     '''
